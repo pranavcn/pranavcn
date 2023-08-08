@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">I thrive on turning ideas into reality through code. My journey as a web developer has equipped me with a deep understanding of front-end technologies like HTML, CSS, and JavaScript, as well as expertise in popular frameworks and libraries such as React, Angular, and Vue.js. On the back-end, I'm proficient in Node.js and have experience building RESTful APIs and working with databases like MongoDB and MySQL.</h3>
+<h3 align="center">I thrive on turning ideas into reality through code. My journey as a web developer has equipped me with a deep understanding of front-end technologies like HTML, CSS, and JavaScript, as well as expertise in popular frameworks and libraries such as React. On the back-end, I'm proficient in Node.js, Nest, Express and have experience building RESTful APIs and working with databases like MongoDB and MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavcn&label=Profile%20views&color=0e75b6&style=flat" alt="pranavcn" /> </p>
 
